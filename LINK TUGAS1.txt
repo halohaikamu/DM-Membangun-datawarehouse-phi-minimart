@@ -1,0 +1,4 @@
+1. Membangun datawarehouse phi-minimart menggunakan MySQL
+https://www.youtube.com/watch?v=lEYpvXsLr6Q&t=9s
+2. Membangun datawarehouse phi-minimart menggunakan pentaho schema workbench
+https://www.youtube.com/watch?v=RJ2GOEdIcPE
